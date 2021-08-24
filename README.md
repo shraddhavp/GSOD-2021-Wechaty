@@ -1,2 +1,9 @@
-# GSOD-2021-Wechaty
-This repository contains all the details of the work done by me (shraddhavp) during the GSOD 2021 tenure at Wechaty Organisation.
+<div align ="center"
+    <img src ="assets/gsod.svg" width =500/>
+    <br/>
+    <img src ="assets/wechaty.svg" width= 500/>
+    <br/>
+    <h1><b>GOOGLE SEASON OF DOCS- 2021</b></h1>
+    <h2>Improve References of [Wechaty](https://wechaty.js.org/)
+    
+    
