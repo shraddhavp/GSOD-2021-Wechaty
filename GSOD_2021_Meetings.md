@@ -1,11 +1,8 @@
 <div align="center">
-<img src="assets/gsod-2021-1.svg" width="400" />
-<br />
-<img src="assets/gsod-2021-2.svg" width="400" />
-<br />
+<img src="assets/gsod.svg" width="400" />
 <h1>Wechaty</h1>
 <h3>
-Improve the gRPC and OpenAPI ecosystem
+Improve the References of Wechaty
 <br />
 Meetings
 </h3>
