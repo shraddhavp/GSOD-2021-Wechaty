@@ -7,6 +7,7 @@
 <a href="https://github.com/shraddhavp/GSOD-2021-Wechaty/stargazers"><img src="https://img.shields.io/github/stars/shraddhavp/GSOD-2021-Wechaty?color=f2bd42&style=flat-square" /></a>
 <a href="https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/master/LICENSE"><img src="https://img.shields.io/github/license/shraddhavp/GSOD-2021-Wechaty?color=f2bd42&style=flat-square" /></a>
     </div>
+    
 # Table of Contents
 
 * **GSOD Project Proposal📜**
