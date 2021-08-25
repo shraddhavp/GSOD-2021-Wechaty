@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/gsod.svg" width="400" />
+<img src="assets/gsod.webp" width="400" />
 <h1>Wechaty</h1>
 <h3>
 Improve the References of Wechaty
