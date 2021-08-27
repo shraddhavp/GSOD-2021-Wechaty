@@ -6,6 +6,7 @@ Improve the Wechaty References
 Project Proposal
 </h3>
 </div>
+
 ## About me
 
 I am Shraddha Vasant Prasad, Software Engineer at American Express ,I describe myself as "A creative person by nature and a  passionate developer ,blogger and lastly  Open Source Enthusiast.
@@ -24,7 +25,7 @@ Soumi Bardhan, a CS Junior at IIIT Kalyani and Ex- Goldman Sachs Intern. She lov
 This is the project proposal for **Improve the Wechaty References** on which we will be working as a part of **Google Season of Docs 2021.** Soumi and I  have proposed our timeline to complete this work during a span of **17 weeks**.
 User docs are an important feature of any software product it assists the end-users in using the software poftware product or a service.The excellent user docs site is a sign of the healthiness of the product, the developer team.The good user documentation makes the product or a service easy to use .
 
-## Current state of References Page
+## Current state of References Page 🖍
 
 After analysis of the introduction section, following issues were seen:
 
@@ -36,7 +37,7 @@ After analysis of the introduction section, following issues were seen:
 
 References contain the technical reference for APIs and other technical aspects of the Wechaty machinery.It describes how it works and the way it works. The scope of this project is limited to improving the References section of the wechaty.js.org website.
 
-## Project Goals🎯
+## Project Goals 🎯
 
 * Make a neat index to search through the references section with ease
 * Building a step by step guide for references
@@ -46,7 +47,7 @@ References contain the technical reference for APIs and other technical aspects 
 * Focus on concrete steps
 * At end of our project tenure we will definitely make the Reference page perfect & top-notch
 
-## Team Goals⛳
+## Team Goals 🎭
 * Weekly phone calls with each other for discussion
 * Also setup a personalized channel for small discussions
 * Check each other’s work and help out
