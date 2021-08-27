@@ -10,7 +10,7 @@
     
 # Table of Contents
 
-* **GSOD Project Proposal📜**
+* **[GSOD Project Proposal](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_2021_Proposal.md)📜**
 * **[GSOD Meetings](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_2021_Meetings.md)🔗**
 * **GSOD Final Report📰**
     
