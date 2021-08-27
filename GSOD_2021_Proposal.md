@@ -20,7 +20,7 @@ Soumi Bardhan, a CS Junior at IIIT Kalyani and Ex- Goldman Sachs Intern. She lov
 
 {% include iframe.html src="https://www.youtube.com/watch?v=82rFox9Vq14" %}
 
-## Introduction
+## Introduction 🍀
 
 This is the project proposal for **Improve the Wechaty References** on which we will be working as a part of **Google Season of Docs 2021.** Soumi and I  have proposed our timeline to complete this work during a span of **17 weeks**.
 User docs are an important feature of any software product it assists the end-users in using the software poftware product or a service.The excellent user docs site is a sign of the healthiness of the product, the developer team.The good user documentation makes the product or a service easy to use .
@@ -33,7 +33,7 @@ After analysis of the introduction section, following issues were seen:
 * It is incomplete ,abstract and outdated.
 * Many information is given in Chinese language and hence difficult for  global users to understand.
 
-## Project scope
+## Project scope 📄
 
 References contain the technical reference for APIs and other technical aspects of the Wechaty machinery.It describes how it works and the way it works. The scope of this project is limited to improving the References section of the wechaty.js.org website.
 
@@ -53,6 +53,9 @@ References contain the technical reference for APIs and other technical aspects 
 * Check each other’s work and help out
 * Set weekly goals together during the phone calls
 
+<div align="right">
+<img src="assets/gsod-2021-3.svg" width="200" />
+</div>
 
 
 
