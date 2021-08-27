@@ -1,4 +1,5 @@
 <div align="center" >
+<img src="assets/gsod.webp" width="400" />
 <h1>Wechaty</h1>
 <h3>
 Improve the Wechaty References
