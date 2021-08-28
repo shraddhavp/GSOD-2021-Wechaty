@@ -80,3 +80,8 @@
 * Request the mentor feedback Wok on improvements suggested by the mentor.
 * Submit a project report for evaluation to the mentors 
 * Write and submit a report of our experience as participants’ in Season of Docs
+
+<div align="right">
+<img src="assets/gsod-2021-3.svg" width="200" />
+</div>
+
