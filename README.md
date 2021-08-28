@@ -11,8 +11,11 @@
 # Table of Contents
 
 * **[GSOD Project Proposal](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_2021_Proposal.md)📜**
+* **GSOD Project Timeline⌛**
 * **[GSOD Meetings](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_2021_Meetings.md)🔗**
 * **GSOD Final Report📰**
+
+# References
     
 # License
 
