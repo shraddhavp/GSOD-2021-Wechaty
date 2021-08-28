@@ -21,7 +21,7 @@ Soumi Bardhan, a CS Junior at IIIT Kalyani and Ex- Goldman Sachs Intern. She lov
 
 {% include iframe.html src="https://www.youtube.com/watch?v=82rFox9Vq14" %}
 
-## Introduction 🍀
+## Project Introduction 🍀
 
 This is the project proposal for **Improve the Wechaty References** on which we will be working as a part of **Google Season of Docs 2021.** Soumi and I  have proposed our timeline to complete this work during a span of **17 weeks**.
 User docs are an important feature of any software product it assists the end-users in using the software poftware product or a service.The excellent user docs site is a sign of the healthiness of the product, the developer team.The good user documentation makes the product or a service easy to use .
