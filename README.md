@@ -15,7 +15,7 @@
 * **[GSOD Project Proposal](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_2021_Proposal.md)📜**
 * **[GSOD Project Timeline](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_Project_Timeline.md)⌛**
 * **[GSOD Meetings](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_2021_Meetings.md)🔗**
-* **GSOD Project Workflow**
+* **[GSOD Project Workflow](https://github.com/shraddhavp/GSOD-2021-Wechaty/blob/main/GSOD_Project%20Workflow.md)🛠**
 * **GSOD Final Report📰**
 
 # References
