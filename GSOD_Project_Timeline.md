@@ -5,7 +5,7 @@
 <br />
 </div>
 
-## Community Bonding (May 8-May 17th 2021)
+# Community Bonding (May 8-May 17th 2021)
 
 * Zoom meeting schedule agreed.
 * Focus in the first two weeks before the start of the project will be on working through existing documentation and note gaps areas.
