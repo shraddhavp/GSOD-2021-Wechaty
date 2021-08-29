@@ -24,7 +24,7 @@ I am glad to have got the chance and opportunity to be a part of the Google Seas
 * Get involved in an innovative community that is  Wechaty.
 ## Acknowledgements🎉
 
-I am thankful to **(Google Season of Docs) [https://developers.google.com/season-of-docs]** and Wechaty for giving me this opportunity. I would also like to thank my mentors (Huan LI)[https://github.com/huan] and (Li Jiarui)[https://github.com/lijiarui] and volunteers (Simin Liao)[https://github.com/proudofsimin] and (Rohitesh Kumar Jain)[https://github.com/Rohitesh-Kumar-Jain] for their constant support, they led the video meetings in a well-organized, interactive manner and for making the meetings a  great platform for discussion.
+I am thankful to **[Google Season of Docs](https://developers.google.com/season-of-docs)** and **[Wechaty](https://wechaty.js.org/)** for giving me this opportunity. I would also like to thank my mentors [Huan LI](https://github.com/huan) and [Li Jiarui](https://github.com/lijiarui) and volunteers [Simin Liao](https://github.com/proudofsimin) and [Rohitesh Kumar Jain](https://github.com/Rohitesh-Kumar-Jain) for their constant support, they led the video meetings in a well-organized, interactive manner and for making the meetings a  great platform for discussion.
 
 ## Future Plans🎆
 
