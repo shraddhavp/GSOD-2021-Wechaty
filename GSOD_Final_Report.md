@@ -10,10 +10,14 @@
 
 ## Objectives🧿
 
-## Acknowledgements🎉
 
 ## Milestones Achieved✨
 
 ## Pull Requests/Commits📔
 
+## Learnings🥇
+
+## Acknowledgements🎉
+
 ## Future Plans🎆
+
