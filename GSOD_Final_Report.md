@@ -10,6 +10,15 @@
 
 ## Objectives🧿
 
+Create a neat structure as mentioned for the Wechaty References section:
+* **API References**
+Add use cases for API references ,also add code snippets for it and also add details about user classes that can be used.
+* **Polyglot**
+Add code snippets with easy to understand examples for first time users in different programming languages.
+* **Puppet Providers**
+Add separate modules for each of the messaging apps and add necessary code snippets
+* **Puppet Services**
+Include all the puppet services offered by Wechaty
 
 ## Milestones Achieved✨
 
