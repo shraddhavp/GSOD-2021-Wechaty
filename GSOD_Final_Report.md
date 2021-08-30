@@ -12,9 +12,9 @@
 
 Create a neat structure as mentioned for the Wechaty References section:
 * **API References**
-Add use cases for API references ,also add code snippets for it and also add details about user classes that can be used.
+Add use cases for API references, add code snippets and also add details about user classes.
 * **Polyglot**
-Add code snippets with easy to understand examples for first time users in different programming languages.
+Add code snippets with easy-to-understand examples for first-time users in different programming languages.
 * **Puppet Providers**
 Add separate modules for each of the messaging apps and add necessary code snippets
 * **Puppet Services**
