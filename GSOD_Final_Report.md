@@ -22,6 +22,10 @@ Include all the puppet services offered by Wechaty
 
 ## Milestones Achieved✨
 
+* Created a new ,brief and a clean documentation structure for References section.
+* Created a user friendly  documentation with new information ,code snippets,images for end-users to understand the Wechaty RPA bot better.
+* 
+
 ## Pull Requests/Commits📔
 
 ## Learnings🥇
