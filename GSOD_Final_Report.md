@@ -35,10 +35,17 @@ Include all the puppet services offered by Wechaty.
 | [Added Wechaty Messages references](https://github.com/wechaty/wechaty.js.org/pull/916)                                              | Approved          | Open             |      | [Added Wechaty-Token](https://github.com/wechaty/wechaty.js.org/pull/919)                   | Approved          | Open             |                     
 | [Week-5 Updated the Wechaty puppet services](https://github.com/wechaty/wechaty.js.org/pull/965)                   | Approved          | Open             |
 | [Week-6 Updated the puppet.md file](https://github.com/wechaty/wechaty.js.org/pull/972)           | Approved          | Open             |
-| [Week7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | Open             |
+| [Week-7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | Open             |
 | [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | Open             |
 | [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          | Open             |
 | [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Open             |
+| [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | Open             |
+| [Update Puppert Providers overview](https://github.com/wechaty/wechaty.js.org/pull/1107)          | Approved          | Open             |
+| [Update Puppert Providers:Wechat](https://github.com/wechaty/wechaty.js.org/pull/1108)          | Approved          | Open             |
+| [Update Puppert Providers-Gitter](https://github.com/wechaty/wechaty.js.org/pull/1110)          | Approved          | Open             |
+| [Update Puppert Providers -Lark](https://github.com/wechaty/wechaty.js.org/pull/1152)          | Approved          | Open             |
+| [Update Puppert Providers-Whatsapp](https://github.com/wechaty/wechaty.js.org/pull/1153)          | Approved          | Open             |
+| [The PHP-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1156)          | Approved          | Open             |
  
 
 ## Learnings🥇
