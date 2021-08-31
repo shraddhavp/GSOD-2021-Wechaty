@@ -70,4 +70,4 @@ I am thankful to **[Google Season of Docs](https://developers.google.com/season-
 ## Future Plans🎆
 
 * Continue to work towards contributing to Wechaty community.
-* Detect and rectify issues in implementation of the bot if any in the future.
+* Detect and rectify issues in implementation of the RPA bot if any in the future.
