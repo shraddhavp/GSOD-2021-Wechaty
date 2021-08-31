@@ -27,7 +27,19 @@ Include all the puppet services offered by Wechaty.
 
 ## Pull Requests/Commits📔
 
-
+| **PR Title**                                                                                           | **Review Status** | **Merge Status** |
+|:------------------------------------------------------------------------------------------------------:|:-----------------:|:----------------:|
+| [References - Puppet Services]([https://github.com/wechaty/wechaty.js.org/pull/907)                    | Approved          | Open             |
+| [References API 1](https://github.com/wechaty/wechaty.js.org/pull/865)                                    | Approved          | Open             |
+| [Added Wechaty-class section](https://github.com/wechaty/wechaty.js.org/pull/913)                                                 | Approved          | Open             |
+| [Added Wechaty Messages references](https://github.com/wechaty/wechaty.js.org/pull/916)                                              | Approved          | Open             |      | [Added Wechaty-Token](https://github.com/wechaty/wechaty.js.org/pull/919)                   | Approved          | Open             |                     
+| [Week-5 Updated the Wechaty puppet services](https://github.com/wechaty/wechaty.js.org/pull/965)                   | Approved          | Open             |
+| [Week-6 Updated the puppet.md file](https://github.com/wechaty/wechaty.js.org/pull/972)           | Approved          | Open             |
+| [Week7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | Open             |
+| [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | Open             |
+| [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          | Open             |
+| [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Open             |
+ 
 
 ## Learnings🥇
 
