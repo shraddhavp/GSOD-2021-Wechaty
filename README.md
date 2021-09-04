@@ -24,7 +24,7 @@
 - [GSoD '21 proposal for References section](https://wechaty.js.org/2021/05/11/shraddhavp-soumi-combined-reference-proposal/)
 - [Season of Docs Website](https://developers.google.com/season-of-docs)
 - [Wechaty Community Meeting Notes](https://docs.google.com/document/d/1fVCk8qRYc4RKGMf2UY5HOe07hEhPUOpGC34v88GEFJg/edit#)
-- [Wechaty weekly follow-ups](https://docs.google.com/spreadsheets/d/1QglSl5JuZuVom84Or8yGhHb3_YbRMDBPgccxoMmnBa0/edit?ts=60e329f9#gid=337461526)
+- [Wechaty weekly follow-ups](https://docs.google.com/spreadsheets/d/1QglSl5JuZuVom84Or8yGhHb3_YbRMDBPgccxoMmnBa0/edit#gid=1248267387)
 
     
 # License
