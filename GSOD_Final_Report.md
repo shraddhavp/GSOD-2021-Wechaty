@@ -51,7 +51,7 @@ Include all the puppet services offered by Wechaty.
 | [Update Puppet Providers-Wechat 4u](https://github.com/wechaty/wechaty.js.org/pull/1211)          | Approved          | Open             |
 | [Update Puppet Providers-service](https://github.com/wechaty/wechaty.js.org/pull/1212)          | Approved          | Open             |
 | [Usage Puppet Providers Mock](https://github.com/wechaty/wechaty.js.org/pull/1220)          | Approved          | Open             |
-| [Rust-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1231)          | Approved          | Open             |
+| [Rust-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1231)          | Approved          | Merged            |
 | [Added Polyglot Architecture Image](https://github.com/wechaty/wechaty.js.org/pull/1233)          | Approved          | Open             |
 
  
