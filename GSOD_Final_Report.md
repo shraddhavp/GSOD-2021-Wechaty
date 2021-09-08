@@ -30,7 +30,7 @@ Include all the puppet services offered by Wechaty.
 | **PR Title**                                                                                           | **Review Status** | **Merge Status** |
 |:------------------------------------------------------------------------------------------------------:|:-----------------:|:----------------:|
 | [References Puppet Services](https://github.com/wechaty/wechaty.js.org/pull/907)                    | Approved          | Open             |
-| [References API 1](https://github.com/wechaty/wechaty.js.org/pull/865)                                    | Approved          | Open             |
+| [References API 1](https://github.com/wechaty/wechaty.js.org/pull/865)                                    | Approved          | Closed           |
 | [Added Wechaty-class section](https://github.com/wechaty/wechaty.js.org/pull/913)                                                 | Approved          | Open             |
 | [Added Wechaty Messages references](https://github.com/wechaty/wechaty.js.org/pull/916)                                              | Approved          | Open             |      | [Added Wechaty-Token](https://github.com/wechaty/wechaty.js.org/pull/919)                   | Approved          | Open             |                     
 | [Week-5 Updated the Wechaty puppet services](https://github.com/wechaty/wechaty.js.org/pull/965)                   | Approved          | Open             |
