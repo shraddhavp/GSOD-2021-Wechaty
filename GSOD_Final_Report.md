@@ -37,7 +37,7 @@ Include all the puppet services offered by Wechaty.
 | [Week-6 Updated the puppet.md file](https://github.com/wechaty/wechaty.js.org/pull/972)           | Approved          | Open             |
 | [Week-7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | Open             |
 | [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | Open             |
-| [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          | Open             |
+| [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          | Merged            |
 | [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Open             |
 | [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | Open             |
 | [Update Puppert Providers overview](https://github.com/wechaty/wechaty.js.org/pull/1107)          | Approved          | Open             |
@@ -47,7 +47,7 @@ Include all the puppet services offered by Wechaty.
 | [Update Puppert Providers-Whatsapp](https://github.com/wechaty/wechaty.js.org/pull/1153)          | Approved          | Open             |
 | [The PHP-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1156)          | Approved          | Open             |
 | [Update Puppet Providers-Padlocal](https://github.com/wechaty/wechaty.js.org/pull/1195)          | Approved          | Open             |
-| [The PHP-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1208)          | Approved          | Open             |
+| [Update References official account](https://github.com/wechaty/wechaty.js.org/pull/1208)          | Approved          | Open             |
 | [Update Puppet Providers-Wechat 4u](https://github.com/wechaty/wechaty.js.org/pull/1211)          | Approved          | Open             |
 | [Update Puppet Providers-service](https://github.com/wechaty/wechaty.js.org/pull/1212)          | Approved          | Open             |
 | [Usage Puppet Providers Mock](https://github.com/wechaty/wechaty.js.org/pull/1220)          | Approved          | Open             |
