@@ -39,7 +39,7 @@ Include all the puppet services offered by Wechaty.
 | [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | Open             |
 | [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          | Merged            |
 | [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Open             |
-| [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | Open             |
+| [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | Merged            |
 | [Update Puppert Providers overview](https://github.com/wechaty/wechaty.js.org/pull/1107)          | Approved          | Open             |
 | [Update Puppert Providers:Wechat](https://github.com/wechaty/wechaty.js.org/pull/1108)          | Approved          | Open             |
 | [Update Puppert Providers-Gitter](https://github.com/wechaty/wechaty.js.org/pull/1110)          | Approved          | Open             |
