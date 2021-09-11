@@ -55,6 +55,7 @@ Include all the puppet services offered by Wechaty.
 | [Usage Puppet Providers Mock](https://github.com/wechaty/wechaty.js.org/pull/1220)          | Approved          | Open             |
 | [Rust-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1231)          | Approved          | Merged            |
 | [Added Polyglot Architecture Image](https://github.com/wechaty/wechaty.js.org/pull/1233)          | Approved          | Open             |
+| [Updated the API references overview section](https://github.com/wechaty/wechaty.js.org/pull/1261)          | Approved          | Merged            |
 
  
 
