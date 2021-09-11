@@ -29,8 +29,6 @@ Include all the puppet services offered by Wechaty.
 
 | **PR Title**                                                                                           | **Review Status** | **Merge Status** |
 |:------------------------------------------------------------------------------------------------------:|:-----------------:|:----------------:|
-| [References Puppet Services](https://github.com/wechaty/wechaty.js.org/pull/907)                    | Approved          | Open             |
-| [References API 1](https://github.com/wechaty/wechaty.js.org/pull/865)                                    | Approved          | Closed           |
 | [Added Wechaty-class section](https://github.com/wechaty/wechaty.js.org/pull/913)                                                 | Approved          | Merged           |
 | [Added Wechaty Messages references](https://github.com/wechaty/wechaty.js.org/pull/916)                                              | Approved          | Open             |
 | [Added Wechaty-Token](https://github.com/wechaty/wechaty.js.org/pull/919)                   | Approved          | Merged           |       
@@ -56,7 +54,16 @@ Include all the puppet services offered by Wechaty.
 | [Rust-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1231)          | Approved          | Merged            |
 | [Added Polyglot Architecture Image](https://github.com/wechaty/wechaty.js.org/pull/1233)          | Approved          | Merged            |
 | [Updated the API references overview section](https://github.com/wechaty/wechaty.js.org/pull/1261)          | Approved          | Merged            |
-
+| [Updated room-invitation section](https://github.com/wechaty/wechaty.js.org/pull/1265)          | Approved          | Merged            |
+| [Puppet services overview](https://github.com/wechaty/wechaty.js.org/pull/1277)          | Approved          | Merged            |
+| [Add Puppet Services Wxwork](https://github.com/wechaty/wechaty.js.org/pull/1285)          | Approved          | Merged            |
+| [Add Puppet Services FAQ](https://github.com/wechaty/wechaty.js.org/pull/1284)          | Approved          | Merged            |
+| [Updated the Polyglot Do it yourself section](https://github.com/wechaty/wechaty.js.org/pull/1283)          | Approved          | Merged            |
+| [Puppet services tokens](https://github.com/wechaty/wechaty.js.org/pull/1283)          | Approved          | Merged            |
+| [Update puppet services compatibility](https://github.com/wechaty/wechaty.js.org/pull/1283)          | Approved          | Merged            |
+| [Puppet services padlocal](https://github.com/wechaty/wechaty.js.org/pull/1283)          | Approved          | Merged            |
+| [Puppet services overview ](https://github.com/wechaty/wechaty.js.org/pull/1283)          | Approved          | Merged            |
+ 
  
 
 ## Learnings🥇
