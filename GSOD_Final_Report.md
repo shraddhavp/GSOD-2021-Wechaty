@@ -35,7 +35,7 @@ Include all the puppet services offered by Wechaty.
 | [Added Wechaty Messages references](https://github.com/wechaty/wechaty.js.org/pull/916)                                              | Approved          | Open             |
 | [Added Wechaty-Token](https://github.com/wechaty/wechaty.js.org/pull/919)                   | Approved          | Merged           |       
 | [Week-4 added the Wechaty environment variables](https://github.com/wechaty/wechaty.js.org/pull/933)                   | Approved          | Merged            |
-| [Week-5 Updated the Wechaty puppet services](https://github.com/wechaty/wechaty.js.org/pull/965)                   | Approved          | Open             |
+| [Week-5 Updated the Wechaty puppet services](https://github.com/wechaty/wechaty.js.org/pull/965)                   | Approved          | Merged            |
 | [Week-6 Updated the puppet.md file](https://github.com/wechaty/wechaty.js.org/pull/972)           | Approved          | Open             |
 | [Week-7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | Merged            |
 | [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | Open             |
