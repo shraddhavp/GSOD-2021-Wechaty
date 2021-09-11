@@ -40,7 +40,7 @@ Include all the puppet services offered by Wechaty.
 | [Week-7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | Open             |
 | [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | Open             |
 | [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          | Merged            |
-| [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Open             |
+| [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Merged            |
 | [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | Merged            |
 | [Update Puppert Providers overview](https://github.com/wechaty/wechaty.js.org/pull/1107)          | Approved          | Open             |
 | [Update Puppert Providers:Wechat](https://github.com/wechaty/wechaty.js.org/pull/1108)          | Approved          | Open             |
