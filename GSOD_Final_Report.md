@@ -10,7 +10,8 @@
 
 ## Objectives🧿
 
-Create a neat structure as mentioned for the Wechaty References section:
+The reference guide contain the technical description of the machinery. They are code determined and information oriented. The references guides contain clear descriptions of Classes, API, Functions, Methods, Attributes, and many more technical aspects of the software. The Wechaty references aim to guide the end-users completely about Wechaty.
+The refernces guide will contain the following subsections with the described content below 👇
 * **API References**
 Add use cases for API references, add code snippets and also add details about user classes.
 * **Polyglot**
@@ -76,6 +77,7 @@ I am glad to have got the chance and opportunity to be a part of the Google Seas
 * Learn about Docusaurus and MDX(Markdown+ReactJS).
 * Learn about RPA (Robotic Process Automation) bots.
 * Get involved in an innovative community that is  Wechaty.
+
 ## Acknowledgements🎉
 
 I am thankful to **[Google Season of Docs](https://developers.google.com/season-of-docs)** and **[Wechaty](https://wechaty.js.org/)** for giving me this opportunity. I would also like to thank my mentors [Huan LI](https://github.com/huan) and [Li Jiarui](https://github.com/lijiarui) and volunteers [Simin Liao](https://github.com/proudofsimin) and [Rohitesh Kumar Jain](https://github.com/Rohitesh-Kumar-Jain) for their constant support, they led the video meetings in a well-organized, interactive manner and for making the meetings a  great platform for discussion.
