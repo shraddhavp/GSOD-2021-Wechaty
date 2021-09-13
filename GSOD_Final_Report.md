@@ -63,7 +63,10 @@ Include all the puppet services offered by Wechaty.
 | [Update puppet services compatibility](https://github.com/wechaty/wechaty.js.org/pull/1279)          | Approved          | Merged            |
 | [Puppet services padlocal](https://github.com/wechaty/wechaty.js.org/pull/1278)          | Approved          | Merged            |
 | [Puppet services overview ](https://github.com/wechaty/wechaty.js.org/pull/1277)          | Approved          | Merged            |
- 
+| [Update Main references overview](https://github.com/wechaty/wechaty.js.org/pull/1286)          | Approved          | Open             |
+| [Update the friendship class section](https://github.com/wechaty/wechaty.js.org/pull/1289)          | Approved          | Open             |
+| [Update contacts in API references](https://github.com/wechaty/wechaty.js.org/pull/1290)          | Approved          | Open             |
+| [Update the room section on API references](https://github.com/wechaty/wechaty.js.org/pull/1294)          | Approved          | Open             |
  
 
 ## Learnings🥇
