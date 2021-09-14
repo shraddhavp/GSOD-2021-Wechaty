@@ -47,8 +47,8 @@ Include all the puppet services offered by Wechaty.
 | [Update Puppert Providers -Lark](https://github.com/wechaty/wechaty.js.org/pull/1152)          | Approved          | Open             |
 | [Update Puppert Providers-Whatsapp](https://github.com/wechaty/wechaty.js.org/pull/1153)          | Approved          | Open             |
 | [The PHP-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1156)          | Approved          | Merged           |
-| [Update Puppet Providers-Padlocal](https://github.com/wechaty/wechaty.js.org/pull/1195)          | Approved          | Open             |
-| [Update References official account](https://github.com/wechaty/wechaty.js.org/pull/1208)          | Approved          | Open             |
+| [Update Puppet Providers-Padlocal](https://github.com/wechaty/wechaty.js.org/pull/1195)          | Approved          | Merged            |
+| [Update References official account](https://github.com/wechaty/wechaty.js.org/pull/1208)          | Approved          | Merged            |
 | [Update Puppet Providers-Wechat 4u](https://github.com/wechaty/wechaty.js.org/pull/1211)          | Approved          | Merged           |
 | [Update Puppet Providers-service](https://github.com/wechaty/wechaty.js.org/pull/1212)          | Approved          | Merged            |
 | [Usage Puppet Providers Mock](https://github.com/wechaty/wechaty.js.org/pull/1220)          | Approved          | Open             |
