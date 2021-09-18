@@ -42,7 +42,7 @@ Include all the puppet services offered by Wechaty.
 | [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Merged            |
 | [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | Merged            |
 | [Update Puppert Providers overview](https://github.com/wechaty/wechaty.js.org/pull/1107)          | Approved          | Merged            |
-| [Update Puppert Providers:Wechat](https://github.com/wechaty/wechaty.js.org/pull/1108)          | Approved          | Open             |
+| [Update Puppert Providers:Wechat](https://github.com/wechaty/wechaty.js.org/pull/1108)          | Approved          | Merged             |
 | [Update Puppert Providers-Gitter](https://github.com/wechaty/wechaty.js.org/pull/1110)          | Approved          | Merged           |
 | [Update Puppert Providers -Lark](https://github.com/wechaty/wechaty.js.org/pull/1152)          | Approved          | Open             |
 | [Update Puppert Providers-Whatsapp](https://github.com/wechaty/wechaty.js.org/pull/1153)          | Approved          | Open             |
