@@ -64,7 +64,7 @@ Include all the puppet services offered by Wechaty.
 |32| [Update puppet services compatibility](https://github.com/wechaty/wechaty.js.org/pull/1279)       | <img src="https://img.shields.io/badge/Pull%20request: 1279-Merged-blueviolet" />              |
 |33| [Puppet services padlocal](https://github.com/wechaty/wechaty.js.org/pull/1278)       |<img src="https://img.shields.io/badge/Pull%20request: 1278-Merged-blueviolet" />             |
 |34| [Puppet services overview ](https://github.com/wechaty/wechaty.js.org/pull/1277)           |<img src="https://img.shields.io/badge/Pull%20request: 1277-Merged-blueviolet" />             |
-|35| [Update Main references overview](https://github.com/wechaty/wechaty.js.org/pull/1286)          | Open             |
+|35| [Update Main references overview](https://github.com/wechaty/wechaty.js.org/pull/1286)          |<img src="https://img.shields.io/badge/Pull%20request: 1286-Merged-blueviolet" />            |
 |36| [Update the friendship class section](https://github.com/wechaty/wechaty.js.org/pull/1289)       |<img src="https://img.shields.io/badge/Pull%20request: 1289-Merged-blueviolet" />               |
 |37| [Update contacts in API references](https://github.com/wechaty/wechaty.js.org/pull/1290)    |<img src="https://img.shields.io/badge/Pull%20request: 1290-Merged-blueviolet" />               |
 |38| [Update the room section on API references](https://github.com/wechaty/wechaty.js.org/pull/1294)    |<img src="https://img.shields.io/badge/Pull%20request: 1294-Merged-blueviolet" />               |
