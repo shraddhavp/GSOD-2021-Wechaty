@@ -51,7 +51,7 @@ Include all the puppet services offered by Wechaty.
 |19| [Update References official account](https://github.com/wechaty/wechaty.js.org/pull/1208)   | <img src="https://img.shields.io/badge/Pull%20request: 1208-Merged-blueviolet" />              |
 |20| [Update Puppet Providers-Wechat 4u](https://github.com/wechaty/wechaty.js.org/pull/1211)   | <img src="https://img.shields.io/badge/Pull%20request: 1211-Merged-blueviolet" />            |
 |21| [Update Puppet Providers-service](https://github.com/wechaty/wechaty.js.org/pull/1212)        | <img src="https://img.shields.io/badge/Pull%20request: 1212-Merged-blueviolet" />              |
-|22| [Usage Puppet Providers Mock](https://github.com/wechaty/wechaty.js.org/pull/1220)       | Open             |
+|22| [Usage Puppet Providers Mock](https://github.com/wechaty/wechaty.js.org/pull/1220)       | <img src="https://img.shields.io/badge/Pull%20request: 1220-Merged-blueviolet" />                  |
 |23| [Rust-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1231)      | <img src="https://img.shields.io/badge/Pull%20request: 1231-Merged-blueviolet" />             |
 |24| [Added Polyglot Architecture Image](https://github.com/wechaty/wechaty.js.org/pull/1233)     |<img src="https://img.shields.io/badge/Pull%20request: 1233-Merged-blueviolet" />              |
 |25| [Updated the API references overview section](https://github.com/wechaty/wechaty.js.org/pull/1261)     | <img src="https://img.shields.io/badge/Pull%20request: 1261-Merged-blueviolet" />              |
