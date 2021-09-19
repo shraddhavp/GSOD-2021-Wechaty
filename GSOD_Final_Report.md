@@ -28,46 +28,46 @@ Include all the puppet services offered by Wechaty.
 
 ## Pull Requests/Commits📔
 
-| **PR Title**                                                                                           | **Review Status** | **Merge Status** |
+|**PR Title**                                                                                           | **Review Status** | **Merge Status** |
 |:------------------------------------------------------------------------------------------------------:|:-----------------:|:----------------:|
-| [Added Wechaty-class section](https://github.com/wechaty/wechaty.js.org/pull/913)                                                 | Approved          | Merged           |
-| [Added Wechaty Messages references](https://github.com/wechaty/wechaty.js.org/pull/916)                                          | Approved          | Merged             |
-| [Added Wechaty-Token](https://github.com/wechaty/wechaty.js.org/pull/919)                   | Approved          | Merged           |       
-| [Week-4 added the Wechaty environment variables](https://github.com/wechaty/wechaty.js.org/pull/933)                   | Approved          | Merged            |
-| [Week-5 Updated the Wechaty puppet services](https://github.com/wechaty/wechaty.js.org/pull/965)                   | Approved          | Merged            |
-| [Week-6 Updated the puppet.md file](https://github.com/wechaty/wechaty.js.org/pull/972)           | Approved          | Merged             |
-| [Week-7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | Merged            |
-| [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | Merged             |
-| [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          | Merged            |
-| [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | Merged            |
-| [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | Merged            |
-| [Update Puppert Providers overview](https://github.com/wechaty/wechaty.js.org/pull/1107)          | Approved          | Merged            |
-| [Update Puppert Providers:Wechat](https://github.com/wechaty/wechaty.js.org/pull/1108)          | Approved          | Merged             |
-| [Update Puppert Providers-Gitter](https://github.com/wechaty/wechaty.js.org/pull/1110)          | Approved          | Merged           |
+| [Added Wechaty-class section](https://github.com/wechaty/wechaty.js.org/pull/913)                                                 | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 913-Merged-blueviolet" />      |
+| [Added Wechaty Messages references](https://github.com/wechaty/wechaty.js.org/pull/916)                                          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 916-Merged-blueviolet" />              |
+| [Added Wechaty-Token](https://github.com/wechaty/wechaty.js.org/pull/919)                   | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 919-Merged-blueviolet" />       |       
+| [Week-4 added the Wechaty environment variables](https://github.com/wechaty/wechaty.js.org/pull/933)                   | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 933-Merged-blueviolet" />             |
+| [Week-5 Updated the Wechaty puppet services](https://github.com/wechaty/wechaty.js.org/pull/965)                   | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 965-Merged-blueviolet" />              |
+| [Week-6 Updated the puppet.md file](https://github.com/wechaty/wechaty.js.org/pull/972)           | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 972-Merged-blueviolet" />             |
+| [Week-7 Wechaty Polyglot](https://github.com/wechaty/wechaty.js.org/pull/1013)            | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1013-Merged-blueviolet" />            |
+| [Updated the Go-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1050)       | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1050-Merged-blueviolet" />              |
+| [Updated the Python-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1057)           | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1057-Merged-blueviolet" />              |
+| [Scala-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1096)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1096-Merged-blueviolet" />             |
+| [The .Net-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1100)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1100-Merged-blueviolet" />              |
+| [Update Puppert Providers overview](https://github.com/wechaty/wechaty.js.org/pull/1107)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1107-Merged-blueviolet" />             |
+| [Update Puppert Providers:Wechat](https://github.com/wechaty/wechaty.js.org/pull/1108)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1108-Merged-blueviolet" />             |
+| [Update Puppert Providers-Gitter](https://github.com/wechaty/wechaty.js.org/pull/1110)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1110-Merged-blueviolet" />            |
 | [Update Puppert Providers -Lark](https://github.com/wechaty/wechaty.js.org/pull/1152)          | Approved          | Open             |
 | [Update Puppert Providers-Whatsapp](https://github.com/wechaty/wechaty.js.org/pull/1153)          | Approved          | Open             |
-| [The PHP-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1156)          | Approved          | Merged           |
-| [Update Puppet Providers-Padlocal](https://github.com/wechaty/wechaty.js.org/pull/1195)          | Approved          | Merged            |
-| [Update References official account](https://github.com/wechaty/wechaty.js.org/pull/1208)          | Approved          | Merged            |
-| [Update Puppet Providers-Wechat 4u](https://github.com/wechaty/wechaty.js.org/pull/1211)          | Approved          | Merged           |
-| [Update Puppet Providers-service](https://github.com/wechaty/wechaty.js.org/pull/1212)          | Approved          | Merged            |
+| [The PHP-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1156)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1156-Merged-blueviolet" />            |
+| [Update Puppet Providers-Padlocal](https://github.com/wechaty/wechaty.js.org/pull/1195)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1195-Merged-blueviolet" />          |
+| [Update References official account](https://github.com/wechaty/wechaty.js.org/pull/1208)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1208-Merged-blueviolet" />              |
+| [Update Puppet Providers-Wechat 4u](https://github.com/wechaty/wechaty.js.org/pull/1211)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1211-Merged-blueviolet" />            |
+| [Update Puppet Providers-service](https://github.com/wechaty/wechaty.js.org/pull/1212)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1212-Merged-blueviolet" />              |
 | [Usage Puppet Providers Mock](https://github.com/wechaty/wechaty.js.org/pull/1220)          | Approved          | Open             |
-| [Rust-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1231)          | Approved          | Merged            |
-| [Added Polyglot Architecture Image](https://github.com/wechaty/wechaty.js.org/pull/1233)          | Approved          | Merged            |
-| [Updated the API references overview section](https://github.com/wechaty/wechaty.js.org/pull/1261)          | Approved          | Merged            |
-| [Updated room-invitation section](https://github.com/wechaty/wechaty.js.org/pull/1265)          | Approved          | Merged            |
-| [Puppet services overview](https://github.com/wechaty/wechaty.js.org/pull/1277)          | Approved          | Merged            |
-| [Add Puppet Services Wxwork](https://github.com/wechaty/wechaty.js.org/pull/1285)          | Approved          | Merged            |
-| [Add Puppet Services FAQ](https://github.com/wechaty/wechaty.js.org/pull/1284)          | Approved          | Merged            |
-| [Updated the Polyglot Do it yourself section](https://github.com/wechaty/wechaty.js.org/pull/1283)          | Approved          | Merged            |
-| [Puppet services tokens](https://github.com/wechaty/wechaty.js.org/pull/1282)          | Approved          | Merged            |
-| [Update puppet services compatibility](https://github.com/wechaty/wechaty.js.org/pull/1279)          | Approved          | Merged            |
-| [Puppet services padlocal](https://github.com/wechaty/wechaty.js.org/pull/1278)          | Approved          | Merged            |
-| [Puppet services overview ](https://github.com/wechaty/wechaty.js.org/pull/1277)          | Approved          | Merged            |
+| [Rust-Wechaty](https://github.com/wechaty/wechaty.js.org/pull/1231)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1231-Merged-blueviolet" />             |
+| [Added Polyglot Architecture Image](https://github.com/wechaty/wechaty.js.org/pull/1233)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1233-Merged-blueviolet" />              |
+| [Updated the API references overview section](https://github.com/wechaty/wechaty.js.org/pull/1261)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1261-Merged-blueviolet" />              |
+| [Updated room-invitation section](https://github.com/wechaty/wechaty.js.org/pull/1265)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1265-Merged-blueviolet" />             |
+| [Puppet services overview](https://github.com/wechaty/wechaty.js.org/pull/1277)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1277-Merged-blueviolet" />              |
+| [Add Puppet Services Wxwork](https://github.com/wechaty/wechaty.js.org/pull/1285)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1285-Merged-blueviolet" />              |
+| [Add Puppet Services FAQ](https://github.com/wechaty/wechaty.js.org/pull/1284)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1284-Merged-blueviolet" />             |
+| [Updated the Polyglot Do it yourself section](https://github.com/wechaty/wechaty.js.org/pull/1283)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 12833-Merged-blueviolet" />              |
+| [Puppet services tokens](https://github.com/wechaty/wechaty.js.org/pull/1282)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1282-Merged-blueviolet" />              |
+| [Update puppet services compatibility](https://github.com/wechaty/wechaty.js.org/pull/1279)          | Approved          | <img src="https://img.shields.io/badge/Pull%20request: 1279-Merged-blueviolet" />              |
+| [Puppet services padlocal](https://github.com/wechaty/wechaty.js.org/pull/1278)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1278-Merged-blueviolet" />             |
+| [Puppet services overview ](https://github.com/wechaty/wechaty.js.org/pull/1277)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1277-Merged-blueviolet" />             |
 | [Update Main references overview](https://github.com/wechaty/wechaty.js.org/pull/1286)          | Approved          | Open             |
-| [Update the friendship class section](https://github.com/wechaty/wechaty.js.org/pull/1289)          | Approved          | Open             |
-| [Update contacts in API references](https://github.com/wechaty/wechaty.js.org/pull/1290)          | Approved          | Open             |
-| [Update the room section on API references](https://github.com/wechaty/wechaty.js.org/pull/1294)          | Approved          | Open             |
+| [Update the friendship class section](https://github.com/wechaty/wechaty.js.org/pull/1289)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1289-Merged-blueviolet" />               |
+| [Update contacts in API references](https://github.com/wechaty/wechaty.js.org/pull/1290)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1290-Merged-blueviolet" />               |
+| [Update the room section on API references](https://github.com/wechaty/wechaty.js.org/pull/1294)          | Approved          |<img src="https://img.shields.io/badge/Pull%20request: 1294-Merged-blueviolet" />               |
  
 
 ## Learnings🥇
