@@ -24,7 +24,7 @@ Include all the puppet services offered by Wechaty.
 ## Milestones Achieved✨
 
 * Created a new ,brief and a clean documentation structure for References section.
-* Created a user friendly  documentation with new information ,code snippets,images for end-users to understand the Wechaty RPA bot better.
+* Created a user friendly  documentation with new information ,code snippets,images for  the end-users to understand the Wechaty RPA BOT better.
 
 ## Pull Requests/Commits📔
 
@@ -80,7 +80,7 @@ I am glad to have got the chance and opportunity to be a part of the Google Seas
 
 ## Acknowledgements🎉
 
-I am thankful to **[Google Season of Docs](https://developers.google.com/season-of-docs)** and **[Wechaty](https://wechaty.js.org/)** for giving me this opportunity. I would also like to thank my mentors [Huan LI](https://github.com/huan) and [Li Jiarui](https://github.com/lijiarui) and volunteers [Simin Liao](https://github.com/proudofsimin) and [Rohitesh Kumar Jain](https://github.com/Rohitesh-Kumar-Jain) for their constant support, they led the video meetings in a well-organized, interactive manner and for making the meetings a  great platform for discussion.
+I am thankful to **[Google Season of Docs](https://developers.google.com/season-of-docs)** and **[Wechaty](https://wechaty.js.org/)** for giving me this opportunity. I would also like to thank my mentors [Huan LI](https://github.com/huan) and [Li Jiarui](https://github.com/lijiarui) and  lastly would like to thank the volunteers [Simin Liao](https://github.com/proudofsimin) and [Rohitesh Kumar Jain](https://github.com/Rohitesh-Kumar-Jain) for their constant support.They led the video meetings in a well-organized, interactive manner and made the meetings a  great platform for discussion.
 
 ## Future Plans🎆
 
