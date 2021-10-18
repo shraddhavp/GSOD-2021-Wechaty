@@ -22,6 +22,7 @@ Meetings
 |       [GSoD 2021 Meeting 6 Blog](https://wechaty.js.org/2021/07/18/gsod-2021-sixth-meeting/)        | <img src = "assets/gsod_2021_meeting_6.webp" /> |
 |      [GSoD 2021 Meeting 7 Blog](https://wechaty.js.org/2021/08/01/gsod-2021-seventh-meeting/)       | <img src = "assets/gsod_2021_meeting_7.webp" /> |
 |       [GSoD 2021 Meeting 8 Blog](https://wechaty.js.org/2021/08/15/gsod-2021-eighth-meeting/)       | <img src = "assets/gsod_2021_meeting_8.webp" /> |
+|       [GSoD 2021 Meeting 10 Blog](https://wechaty.js.org/2021/09/12/gsod-2021-tenth-meeting/)       | <img src = "assets/gsod-2021-meeting-10.webp" />|
 
 <div align="right">
 <img src="assets/gsod-2021-3.svg" width="200" />
